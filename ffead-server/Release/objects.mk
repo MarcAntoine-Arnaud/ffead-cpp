@@ -4,4 +4,4 @@
 
 USER_OBJS :=
 
-LIBS := -lweblib -lcrypto -lssl -lrt
+LIBS := -lweblib -lcrypto -lssl -lrt -ldl
